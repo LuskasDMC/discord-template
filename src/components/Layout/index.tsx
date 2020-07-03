@@ -7,6 +7,7 @@ import ChatInfo from "../ChatInfo/index"
 import ServerChannels from "../ServerChannels/index"
 import UserConfig from "../UserConfiguration/index"
 import ChannelChat from "../ChannelChat/index"
+import ServerUsers from "../ServerUsers/index"
 const Layout: React.FC = () => {
   return(
       <Grid>
@@ -16,6 +17,7 @@ const Layout: React.FC = () => {
           <ServerChannels/>
           <UserConfig/>
           <ChannelChat/>
+          <ServerUsers/>
       </Grid>
   )
 }

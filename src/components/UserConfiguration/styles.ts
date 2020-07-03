@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const Container = styled.div`
   background: var(--quaternary);
   padding:0px 10px;
-  height: 52px;
   display:flex;
   align-items:center;
   grid-area: UC;

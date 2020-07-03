@@ -3,8 +3,8 @@ import React from 'react';
 import { Container, Avatar, Content, Date } from './styles';
 
 interface IProps {
-    user:string;
-    date:string;
+    user?:string;
+    date?:string;
     content:string;
 }
 
