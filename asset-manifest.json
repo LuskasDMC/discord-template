@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/discord-template/static/js/main.1df01735.chunk.js",
-    "main.js.map": "/discord-template/static/js/main.1df01735.chunk.js.map",
+    "main.js": "/discord-template/static/js/main.de4b5326.chunk.js",
+    "main.js.map": "/discord-template/static/js/main.de4b5326.chunk.js.map",
     "runtime-main.js": "/discord-template/static/js/runtime-main.5a298408.js",
     "runtime-main.js.map": "/discord-template/static/js/runtime-main.5a298408.js.map",
     "static/css/2.8b6ab871.chunk.css": "/discord-template/static/css/2.8b6ab871.chunk.css",
     "static/js/2.302f75eb.chunk.js": "/discord-template/static/js/2.302f75eb.chunk.js",
     "static/js/2.302f75eb.chunk.js.map": "/discord-template/static/js/2.302f75eb.chunk.js.map",
     "index.html": "/discord-template/index.html",
-    "precache-manifest.849ac10d7b6b8548ad05be39ff96e235.js": "/discord-template/precache-manifest.849ac10d7b6b8548ad05be39ff96e235.js",
+    "precache-manifest.cf739ae8b4a70f5b2aacebf00c60c549.js": "/discord-template/precache-manifest.cf739ae8b4a70f5b2aacebf00c60c549.js",
     "service-worker.js": "/discord-template/service-worker.js",
     "static/css/2.8b6ab871.chunk.css.map": "/discord-template/static/css/2.8b6ab871.chunk.css.map",
     "static/js/2.302f75eb.chunk.js.LICENSE.txt": "/discord-template/static/js/2.302f75eb.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5a298408.js",
     "static/css/2.8b6ab871.chunk.css",
     "static/js/2.302f75eb.chunk.js",
-    "static/js/main.1df01735.chunk.js"
+    "static/js/main.de4b5326.chunk.js"
   ]
 }
