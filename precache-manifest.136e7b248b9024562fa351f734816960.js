@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2830ff6975d0c81767533f68e084ca80",
+    "revision": "eebd29002fdfb9c4a576281a67bdb3f4",
     "url": "/discord-template/index.html"
   },
   {
